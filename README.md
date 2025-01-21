@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DottyV
+- 👋 Hi, I’m Daniel Kolawole
 - 👀 I’m interested in software engineering, web development, and data management systems
 - 🌱 I’m currently learning ReactJS, ThreeJS and deepening my knowledge in C and DSA while delving into AI/ML.
 - 💞️ I’m looking to collaborate on open-source projects, especially those which solve actual problems.
